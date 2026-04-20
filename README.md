@@ -17,7 +17,7 @@ Building - Python · R · Machine Learning (Penn State PAAI, 2026)
 
 Featured Projects
 
-Portfolio projects in development — each combines SQL, Excel, and Power BI with real-world HR use cases.
+Portfolio projects in development - each combines SQL, Excel, and Power BI with real-world HR use cases.
 
 Greenville Housing Market Analysis - 
 Tools: SQL (SQLite) · Excel (PivotTables, Power Query) · Tableau 
