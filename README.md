@@ -61,8 +61,6 @@ MOS: 35P Cryptologic Language Analyst (SIGINT) · 74D CBRN Specialist
 Trained in structured analytical tradecraft — pattern recognition, multi-source data fusion, hypothesis testing, and intelligence report writing
 Training exercises in South Korea & Japan for Operations Key Resolve and Daring Fox
 Supported Hurricane Irma & Harvey crisis response operations
-3x Army Achievement Medal · German Armed Forces Proficiency Badge · Company "Best Warrior" & Soldier of the Year ·
-298 / 300 on the Army Physical Fitness Test · 94th percentile ASVAB
 
 Education
 
